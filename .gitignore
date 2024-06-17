@@ -159,4 +159,6 @@ local.properties
 #.project
 
 /.idea/
-/first-design-pattern.iml
+first-design-pattern.iml
+
+/target
